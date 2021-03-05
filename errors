@@ -1,0 +1,65 @@
+[abridgedcarp01@owen-alienwarem17r2 ~]$ i3 -C -c ~/.config/i3/config
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <word>
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 401: 		  	colors {
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 402: 		  	separator          
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 403: 		  	background         
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 404: 		  	statusline         
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 405: #border/bg/txt/indicator
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set', 'i3bar_command', 'status_command', 'socket_path', 'mode', 'hidden_state', 'id', 'modifier', 'wheel_up_cmd', 'wheel_down_cmd', 'bindsym', 'position', 'output', 'tray_output', 'tray_padding', 'font', 'separator_symbol', 'binding_mode_indicator', 'workspace_buttons', 'workspace_min_width', 'strip_workspace_numbers', 'strip_workspace_name', 'verbose', 'height', 'colors', '}'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 402: 		  	colors {
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 403: 		  	separator          
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 404: 		  	background         
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		  	^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 405: 		  	statusline         
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 406: #border/bg/txt/indicator
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set', 'i3bar_command', 'status_command', 'socket_path', 'mode', 'hidden_state', 'id', 'modifier', 'wheel_up_cmd', 'wheel_down_cmd', 'bindsym', 'position', 'output', 'tray_output', 'tray_padding', 'font', 'separator_symbol', 'binding_mode_indicator', 'workspace_buttons', 'workspace_min_width', 'strip_workspace_numbers', 'strip_workspace_name', 'verbose', 'height', 'colors', '}'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 403: 		  	separator          
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 404: 		  	background         
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 405: 		  	statusline         
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		  	^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 406: #border/bg/txt/indicator
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 407: 		focused_workspace		  				 	
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set', 'i3bar_command', 'status_command', 'socket_path', 'mode', 'hidden_state', 'id', 'modifier', 'wheel_up_cmd', 'wheel_down_cmd', 'bindsym', 'position', 'output', 'tray_output', 'tray_padding', 'font', 'separator_symbol', 'binding_mode_indicator', 'workspace_buttons', 'workspace_min_width', 'strip_workspace_numbers', 'strip_workspace_name', 'verbose', 'height', 'colors', '}'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 405: 		  	statusline         
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 406: #border/bg/txt/indicator
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 407: 		focused_workspace		  				 	
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 408: 		active_workspace		     			
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 409: 		inactive_workspace		  					
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set', 'i3bar_command', 'status_command', 'socket_path', 'mode', 'hidden_state', 'id', 'modifier', 'wheel_up_cmd', 'wheel_down_cmd', 'bindsym', 'position', 'output', 'tray_output', 'tray_padding', 'font', 'separator_symbol', 'binding_mode_indicator', 'workspace_buttons', 'workspace_min_width', 'strip_workspace_numbers', 'strip_workspace_name', 'verbose', 'height', 'colors', '}'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 406: #border/bg/txt/indicator
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 407: 		focused_workspace		  				 	
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 408: 		active_workspace		     			
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		^^^^^^^^^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 409: 		inactive_workspace		  					
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 410: 		urgent_workspace		#e53935	   	#e53935			
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set', 'i3bar_command', 'status_command', 'socket_path', 'mode', 'hidden_state', 'id', 'modifier', 'wheel_up_cmd', 'wheel_down_cmd', 'bindsym', 'position', 'output', 'tray_output', 'tray_padding', 'font', 'separator_symbol', 'binding_mode_indicator', 'workspace_buttons', 'workspace_min_width', 'strip_workspace_numbers', 'strip_workspace_name', 'verbose', 'height', 'colors', '}'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 407: 		focused_workspace		  				 	
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 408: 		active_workspace		     			
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 409: 		inactive_workspace		  					
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 410: 		urgent_workspace		#e53935	   	#e53935			
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 411: 			}
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set', 'i3bar_command', 'status_command', 'socket_path', 'mode', 'hidden_state', 'id', 'modifier', 'wheel_up_cmd', 'wheel_down_cmd', 'bindsym', 'position', 'output', 'tray_output', 'tray_padding', 'font', 'separator_symbol', 'binding_mode_indicator', 'workspace_buttons', 'workspace_min_width', 'strip_workspace_numbers', 'strip_workspace_name', 'verbose', 'height', 'colors', '}'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 408: 		active_workspace		     			
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 409: 		inactive_workspace		  					
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 410: 		urgent_workspace		#e53935	   	#e53935			
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 411: 			}
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 412: 		}
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set ', 'se', 'set_from_resource', 'bindsym', 'bindcode', 'bind', 'bar', 'font', 'mode', 'gaps', 'smart_borders', 'smart_gaps', 'floating_minimum_size', 'floating_maximum_size', 'floating_modifier', 'default_orientation', 'workspace_layout', 'default_border', 'new_window', 'default_floating_border', 'new_float', 'hide_edge_borders', 'for_window', 'assign', 'no_focus', 'focus_follows_mouse', 'mouse_warping', 'focus_wrapping', 'force_focus_wrapping', 'force_xinerama', 'force-xinerama', 'disable_randr15', 'disable-randr15', 'workspace_auto_back_and_forth', 'fake_outputs', 'fake-outputs', 'force_display_urgency_hint', 'focus_on_window_activation', 'title_align', 'show_marks', 'workspace', 'ipc_socket', 'ipc-socket', 'ipc_kill_timeout', 'restart_state', 'popup_during_fullscreen', 'exec_always', 'exec', 'client.background', 'client.focused_inactive', 'client.focused', 'client.unfocused', 'client.urgent', 'client.placeholder'
+03/05/2021 10:12:02 AM - ERROR: CONFIG: (in file /home/USERNAME/.config/i3/config)
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 410: 		urgent_workspace		#e53935	   	#e53935			
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 411: 			}
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 412: 		}
+03/05/2021 10:12:02 AM - ERROR: CONFIG:           		^
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 413: 
+03/05/2021 10:12:02 AM - ERROR: CONFIG: Line 414: 	
